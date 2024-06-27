@@ -1,5 +1,4 @@
 
-```markdown
 # Kahani-Korner
 
 Kahani-Korner is a blog post application built with React and Redux, utilizing Material-UI (MUI) for styling and Framer Motion for animations.
@@ -17,7 +16,7 @@ Kahani-Korner is a blog post application built with React and Redux, utilizing M
 - **State Management**: Redux
 - **Routing**: React Router
 - **Styling**: CSS-in-JS with Material-UI
-- **Version Control**: Git, GitHub\
+- **Version Control**: Git, GitHub
 
 ## Live - `https://kahani-korner-bn5f-ex2jnmaqs-souvik-das-projects.vercel.app/`
 
@@ -62,5 +61,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to f
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 ```
-
-Make sure to replace `your-username` in the clone URL and adjust paths for screenshots (`./screenshots/screenshot1.png`, `./screenshots/screenshot2.png`) as per your actual project structure. This Markdown file can be saved as `README.md` in the root directory of your GitHub repository.
